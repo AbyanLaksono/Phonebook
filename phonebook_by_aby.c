@@ -1,6 +1,6 @@
 /*Membuat program phone book
-    by: Muhammad Abyan Laksono 2304127 Pendidikan Ilmu Komputer B
-    Menu di dalam program terdapat
+    by: Muhammad Abyan Laksono 2304127 
+    Ilmu Komputer B - Universitas Pendidikan Indonesia
 
     dengan referensi dari Youtube dan Google untuk mencari syntax yang diinginkan
     */
